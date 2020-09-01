@@ -15,7 +15,7 @@ import com.example.myapplication.R
  */
 class EmptyActivity : AppCompatActivity() {
     companion object {
-        const val TAG = "BasicOneActivity"
+        const val TAG = "EmptyActivity"
     }
 
     private lateinit var mTvHomework: View
